@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 My name is Amandine and I'm a student at EFREI, French computer engineering school.
 I study Immersive Technologies and IA, so AR / VR, 3D and 2D development, modelisation and video games.
 
+📍 Based in **Paris, France** 
+
+- 🎮 Creation of prototypes of video games and 3D experience
+- 🤖 Intregration and training of Machine Learning Models
 
 ---
-
-### 🛠️ Compétences & Technologies
 
 ### 🛠️ Compétences & Technologies
 
@@ -61,4 +63,4 @@ I study Immersive Technologies and IA, so AR / VR, 3D and 2D development, modeli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amafinas/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amandine.finas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://github.com/Amafin?tab=repositories)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://github.com/Amafin?tab=repositories) -->
