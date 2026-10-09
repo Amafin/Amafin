@@ -51,10 +51,11 @@ I study Immersive Technologies and IA, so AR / VR, 3D and 2D development, modeli
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| [**RunAndGun**](https://github.com/Amafin/RunAndGun) | Jeu d'action 2D/3D dynamique de type *Run & Gun* axé sur le gameplay, les mécaniques de tir et les collisions. | `Unity` `C#` `Game Design` |
-| [**MachineLearningProject**](https://github.com/Amafin/MachineLearningProject) | Expérimentation et implémentation de modèles d'apprentissage automatique (analyse de données, classification/régression). | `Python` `Scikit-Learn` `Pandas` |
-| [**DemoFlappyBird**](https://github.com/Amafin/DemoFlappyBird) | Reproduction du gameplay d'arcade Flappy Bird explorant les mécaniques physiques 2D et la boucle de jeu. | `Unity / C#` `2D Physics` |
-| [**TP03---Unity3D**](https://github.com/Amafin/TP03---Unity3D) | Projet académique Unity 3D axé sur l'intégration d'assets, le scripting et les interactions d'environnement 3D. | `Unity 3D` `C#` |
+| [**SmartFlow**](https://github.com/cr0cblanc75/SmartFlow) | Solution d'automatisation / gestion intelligente de flux de travail. | `Python` `Automation` |
+| [**RunAndGun**](https://github.com/Amafin/RunAndGun) | Jeu d'action dynamique axé sur le gameplay rapide, les mécaniques de tir et les interactions d'arène. | `Unity` `C#` `Game Design` |
+| [**MachineLearningProject**](https://github.com/Amafin/MachineLearningProject) | Implémentation et entraînement de modèles de Machine Learning (analyse, modélisation et évaluation). | `Python` `Scikit-Learn` `Pandas` |
+| [**DemoFlappyBird**](https://github.com/Amafin/DemoFlappyBird) | Reproduction du classique d'arcade axée sur la gestion de la physique 2D et le score loop. | `Unity` `C#` `2D Physics` |
+| [**TP03---Unity3D**](https://github.com/Amafin/TP03---Unity3D) | Projet explorant les bases de la physique 3D, le scripting et les interactions de scène sous Unity. | `Unity 3D` `C#` |
 
 ---
 
