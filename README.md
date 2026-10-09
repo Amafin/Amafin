@@ -58,8 +58,17 @@ I study Immersive Technologies and IA, so AR / VR, 3D and 2D development, modeli
 
 ---
 
+<div align="center">
+
 ### 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amafinas/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amandine.finas@gmail.com)
+<a href="https://www.linkedin.com/in/amafinas/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Amandine_Finas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ton-email@efrei.net">
+  <img src="https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://github.com/Amafin?tab=repositories) -->
